@@ -8,6 +8,8 @@ It is really very important to be able to carry out the whole project. There wil
 
 Every good project finds limitations during implementation. There isn'st mentioned any problems found during performance but he wish to carry out further the project to help autistic children develop their social and communication skills. Moreover, an alternative for more little classrooms is also added. For that it will be necessary more trials to ensure its effectiveness for a long-term application. 
 
+For you to overview about the aim of the project and the methodology for its perfomance, here it is provided a summary of the main 4 parts. 
+
 
 <img width="738" alt="Captura de pantalla 2023-05-30 a las 22 46 39" src="https://github.com/mariiaccortes/lab1/assets/134840134/5cb0207f-79ab-41ae-aaeb-09278186e3f5">
 
