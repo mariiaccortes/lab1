@@ -9,7 +9,6 @@ It is really very important to be able to carry out the whole project. There wil
 Every good project finds limitations during implementation. There isn'st mentioned any problems found during performance but he wish to carry out further the project to help autistic children develop their social and communication skills. Moreover, an alternative for more little classrooms is also added. For that it will be necessary more trials to ensure its effectiveness for a long-term application. 
 
 
-
 0. Marc Domenech López. Development of a full-body interaction videogame for children with Autism based on generative graphics and a Kinect-based tracking system. https://repositori.upf.edu/handle/10230/33071?locale-attribute=en
 
 1. RJ,	L.	(2008).	Diagnosis	of	autism	spectrum	disorders	in	the	first	3	years	of	life.
