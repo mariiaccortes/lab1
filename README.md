@@ -1,5 +1,7 @@
 # lab1
 
+Welcome to the project that will change the future for autistic children and their families. 
+
 This code has been applied to develop a project related to autistic children interacting with a video game from a Kinect-tracking system. This one in particular is to develop the particle system that will analyse the movements from the Kinect sensors. It is made with Unity software. 
 
 It is really very important to be able to carry out the whole project. In this work there are several codes implemented; one is for the movements detected while playing the videogame, this one is for the implementation of the interaction analysis and the last one is the Manual of OSC Connection. Therefore, I have decided to consider this one the most relevant because the aim of the project is to capture the interaction of the children with the game. Even so, all of them are essential for the correct implementation. 
